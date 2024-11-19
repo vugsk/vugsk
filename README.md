@@ -1,8 +1,6 @@
 
 <h1 align="center">hi there</h1>
 
----
-
 ### About me:
 people or hero or god?
 
