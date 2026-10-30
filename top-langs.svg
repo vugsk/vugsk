@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="216" viewBox="0 0 340 216"><rect width="340" height="216" rx="6" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="216" viewBox="0 0 340 216">
+<rect width="340" height="216" rx="6" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="32" font-family="Segoe UI,Ubuntu,sans-serif" font-size="16" font-weight="600" fill="#58a6ff">Top Languages</text>
 <text x="20" y="69" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" fill="#c9d1d9">Rust</text><rect x="90" y="60" width="150" height="10" rx="5" fill="#21262d"/><rect x="90" y="60" width="70.8" height="10" rx="5" fill="#dea584"/><text x="250" y="69" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" fill="#8b949e">47.2%</text>
 <text x="20" y="95" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" fill="#c9d1d9">Go</text><rect x="90" y="86" width="150" height="10" rx="5" fill="#21262d"/><rect x="90" y="86" width="37.9" height="10" rx="5" fill="#00ADD8"/><text x="250" y="95" font-family="Segoe UI,Ubuntu,sans-serif" font-size="12" fill="#8b949e">25.2%</text>
