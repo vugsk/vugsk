@@ -10,7 +10,8 @@
 
 ### About me
 
-Linux-first systems developer. I build native desktop apps and CLI tools in Rust, Go and C++, and keep my own Arch + niri setup tidy.
+I write native Linux apps and CLI tools in Rust, Go and C++, poke at ESP32/STM32 boards, and keep my Arch + niri setup tidy.
+Hero or god? Mostly a person with a compiler.
 
 ### Stack
 
@@ -22,14 +23,12 @@ Linux-first systems developer. I build native desktop apps and CLI tools in Rust
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![Slint](https://img.shields.io/badge/Slint-2379F4?style=for-the-badge&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 <div align="center">
