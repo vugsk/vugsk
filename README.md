@@ -13,6 +13,21 @@
 I write native Linux apps and CLI tools in Rust, Go and C++, poke at ESP32/STM32 boards, and keep my Arch + niri setup tidy.
 Hero or god? Mostly a person with a compiler.
 
+| | |
+|---|---|
+| **Name** | GermanF0x: German by name, fox by nature, zero in the middle for the 1337 factor |
+| **Gender** | Sarmat. Heavy, reliable, and best kept away from the launch button |
+| **Location** | Union of Soviet Socialist Republics (in my heart and in my `$HOME`) |
+
+<details>
+<summary>По-русски</summary>
+
+- **Имя:** GermanF0x. Герман по паспорту, лис по духу, а нолик посередине для солидности.
+- **Пол:** Сармат. Тяжёлый, надёжный и держится подальше от красной кнопки.
+- **Откуда:** Союз Советских Социалистических Республик. Границы на карте поменялись, а мой `$HOME` остался прежним.
+
+</details>
+
 ### Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
